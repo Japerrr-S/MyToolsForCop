@@ -1,0 +1,32 @@
+{
+    "allow_tf32": true,
+    "logdir": "logs",
+    "max_vis_images": 32,
+    "mixed_precision": "fp16",
+    "pretrained": {
+        "model": "SimianLuo/LCM_Dreamshaper_v7",
+        "revision": "main"
+    },
+    "project_name": "PAPERLIKE_LCM",
+    "prompt_fn": "eval_hps_v2_all",
+    "reward_fn": "pick",
+    "run_name": "2026.04.17_13.36.38",
+    "sample": {
+        "batch_size": 1,
+        "eta": 0.5,
+        "guidance_scale": 7.5,
+        "num_steps": 8
+    },
+    "seed": 42,
+    "smc": {
+        "ess_threshold": 0.5,
+        "kl_coeff": 0.0001,
+        "num_particles": 4,
+        "resample_strategy": "ssp",
+        "tempering": "schedule",
+        "tempering_gamma": 0.1,
+        "tempering_schedule": "exp",
+        "tempering_start": 0,
+        "verbose": false
+    }
+}

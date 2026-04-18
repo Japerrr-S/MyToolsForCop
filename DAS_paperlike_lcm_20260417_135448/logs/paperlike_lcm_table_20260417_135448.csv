@@ -1,0 +1,4 @@
+reward,run_dir,aesthetic_mean,aesthetic_std,imagereward_mean,imagereward_std,pick_mean,pick_std,clip_mean,clip_std,mean_pairwise_distance_clip,std_error_pairwise_distance_clip,tce_K20,mean_lpips,std_lpips
+aesthetic,logs/PAPERLIKE_LCM/aesthetic/2026.04.17_13.28.04,6.255701,0.836100,0.648130,0.862770,0.223326,0.011945,0.252887,0.036942,0.466897,0.004558,45.328272,0.527390,0.050601
+pick,logs/PAPERLIKE_LCM/pick/2026.04.17_13.36.38,5.580615,0.590997,0.580849,0.962409,0.231600,0.011478,0.264778,0.037997,0.467945,0.004742,45.488132,0.531235,0.050565
+multi,logs/PAPERLIKE_LCM/multi/2026.04.17_13.45.40,5.925928,0.789991,0.520667,0.878805,0.223439,0.011535,0.290082,0.042942,0.464827,0.004907,45.551394,0.527971,0.051689
