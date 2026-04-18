@@ -1,0 +1,210 @@
+{
+  "created_at": "2026-04-17 15:29:16",
+  "files": [
+    {
+      "path": "run20_2026-04-17_151226.log",
+      "bytes": 430709,
+      "mtime": 1776410784.9916804
+    },
+    {
+      "path": "autodl_4090.py",
+      "bytes": 2143,
+      "mtime": 1776408403.0500786
+    },
+    {
+      "path": "run_autodl.sh",
+      "bytes": 2073,
+      "mtime": 1776409793.421617
+    },
+    {
+      "path": "train.py",
+      "bytes": 26520,
+      "mtime": 1776409715.6951876
+    },
+    {
+      "path": "run/jpeg_4090_2026.04.17_15.12.31/checkpoints/checkpoint_2/pytorch_lora_weights.bin",
+      "bytes": 3288230,
+      "mtime": 1776410619.306417
+    },
+    {
+      "path": "run/jpeg_4090_2026.04.17_15.12.31/checkpoints/checkpoint_2/optimizer.bin",
+      "bytes": 6592058,
+      "mtime": 1776410619.3424354
+    },
+    {
+      "path": "run/jpeg_4090_2026.04.17_15.12.31/checkpoints/checkpoint_2/scaler.pt",
+      "bytes": 988,
+      "mtime": 1776410619.3424354
+    },
+    {
+      "path": "run/jpeg_4090_2026.04.17_15.12.31/checkpoints/checkpoint_2/random_states_0.pkl",
+      "bytes": 14344,
+      "mtime": 1776410619.3464375
+    },
+    {
+      "path": "run/jpeg_4090_2026.04.17_15.12.31/checkpoints/checkpoint_1/pytorch_lora_weights.bin",
+      "bytes": 3288230,
+      "mtime": 1776410415.7517998
+    },
+    {
+      "path": "run/jpeg_4090_2026.04.17_15.12.31/checkpoints/checkpoint_1/optimizer.bin",
+      "bytes": 6592058,
+      "mtime": 1776410415.7998066
+    },
+    {
+      "path": "run/jpeg_4090_2026.04.17_15.12.31/checkpoints/checkpoint_1/scaler.pt",
+      "bytes": 988,
+      "mtime": 1776410415.7998066
+    },
+    {
+      "path": "run/jpeg_4090_2026.04.17_15.12.31/checkpoints/checkpoint_1/random_states_0.pkl",
+      "bytes": 14344,
+      "mtime": 1776410415.7998066
+    },
+    {
+      "path": "run/jpeg_4090_2026.04.17_15.12.31/checkpoints/checkpoint_0/pytorch_lora_weights.bin",
+      "bytes": 3288230,
+      "mtime": 1776410211.2667625
+    },
+    {
+      "path": "run/jpeg_4090_2026.04.17_15.12.31/checkpoints/checkpoint_0/optimizer.bin",
+      "bytes": 6592058,
+      "mtime": 1776410211.3107688
+    },
+    {
+      "path": "run/jpeg_4090_2026.04.17_15.12.31/checkpoints/checkpoint_0/scaler.pt",
+      "bytes": 988,
+      "mtime": 1776410211.3107688
+    },
+    {
+      "path": "run/jpeg_4090_2026.04.17_15.12.31/checkpoints/checkpoint_0/random_states_0.pkl",
+      "bytes": 14344,
+      "mtime": 1776410211.3107688
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/run-df6ctwwe.wandb",
+      "bytes": 1417687,
+      "mtime": 1776410784.9956775
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/logs/debug.log",
+      "bytes": 3432,
+      "mtime": 1776410784.9956775
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/logs/debug-internal.log",
+      "bytes": 1602,
+      "mtime": 1776410784.9956775
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/logs/debug-core.log",
+      "bytes": 1956,
+      "mtime": 1776410784.9996746
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/requirements.txt",
+      "bytes": 1411,
+      "mtime": 1776409951.939887
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_75_4d81fc747b5b9f4c0a61.jpg",
+      "bytes": 11143,
+      "mtime": 1776410751.9425812
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_59_a44f56a83e77ccdab931.jpg",
+      "bytes": 8873,
+      "mtime": 1776410587.5297077
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_0_af42085cbf083b829d5e.jpg",
+      "bytes": 10584,
+      "mtime": 1776409974.6394455
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_3_f1534d8b8ea675ccc6a4.jpg",
+      "bytes": 9737,
+      "mtime": 1776410015.869813
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_7_f2185159842fbe40f6f1.jpg",
+      "bytes": 11556,
+      "mtime": 1776410056.9080431
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_11_86c73da3ea9b25a3d482.jpg",
+      "bytes": 11718,
+      "mtime": 1776410097.4941144
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_15_1bfa566d591552fc475b.jpg",
+      "bytes": 15597,
+      "mtime": 1776410137.9640927
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_19_a04f9ce1516d4bf55d84.jpg",
+      "bytes": 7502,
+      "mtime": 1776410179.4821584
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_23_c9a160bb83bd3175b562.jpg",
+      "bytes": 11022,
+      "mtime": 1776410219.8680031
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_27_bb56cb3552418f3191ac.jpg",
+      "bytes": 13385,
+      "mtime": 1776410260.2217963
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_35_d6f9432597ecfec00526.jpg",
+      "bytes": 10684,
+      "mtime": 1776410342.1614432
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_39_c8308393bf22a7315dee.jpg",
+      "bytes": 11825,
+      "mtime": 1776410383.151222
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_31_5ecd5ee0dfe4f1d7959f.jpg",
+      "bytes": 8806,
+      "mtime": 1776410300.8915946
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_43_b86d049014b44389711d.jpg",
+      "bytes": 15759,
+      "mtime": 1776410424.8890803
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_51_abaa940350536278d7b9.jpg",
+      "bytes": 12675,
+      "mtime": 1776410505.7813969
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_47_f0210032228163fa01aa.jpg",
+      "bytes": 10182,
+      "mtime": 1776410465.780135
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_55_238e053330920c0a75a8.jpg",
+      "bytes": 11825,
+      "mtime": 1776410546.4377086
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_63_cfca62520c77a69ead60.jpg",
+      "bytes": 7772,
+      "mtime": 1776410628.0149143
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_67_cec546abb7746702ed1e.jpg",
+      "bytes": 9900,
+      "mtime": 1776410669.8197167
+    },
+    {
+      "path": "wandb_offline/offline-run-20260417_151231-df6ctwwe/files/media/images/images_71_e5422803f672ec361abc.jpg",
+      "bytes": 12946,
+      "mtime": 1776410710.270387
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+DDPO-PyTorch 复现实验打包说明
+
+包含内容：
+- run20_*.log：训练 stdout 日志
+- autodl_4090.py：本次使用的配置
+- run/：训练产物（checkpoints 等）
+- wandb_offline/：W&B 离线 run（如需上传：wandb sync wandb_offline/<offline-run...>）
+
+提示：本次训练跑满了 20 个 epoch（Epoch 0-19）。
+checkpoints 按 save_freq=5 保存：checkpoint_0/1/2 对应 epoch 5/10/15。
