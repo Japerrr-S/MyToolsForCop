@@ -1,0 +1,2 @@
+reward,run_dir,epoch,n,reward_mean,reward_std,loss_mean,loss_std,approx_kl_mean,approx_kl_std,clipfrac_mean,clipfrac_std
+jpeg_compressibility,/root/autodl-tmp/ddpo_pytorch_formal_2026-04-18_220318/run/jpeg_4090_formal_2026.04.18_22.04.40,19,4,-113.996,0.0,2.752520923021695e-06,0.9999939356775652,1.1051821922902771e-09,1.2351709099235666e-09,0.024999999441206455,0.008660253844272624
