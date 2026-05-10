@@ -1,0 +1,10 @@
+{
+  "bundle": "comparison_only",
+  "experiment_repo_dir": "DAS_longitudinal_sweep_20260506_205430",
+  "baseline_repo": "https://github.com/Japerrr-S/MyToolsForCop.git",
+  "baseline_repo_dir_for_comparison": "DAS_paperlike_lcm_20260417_135448",
+  "companion_artifact_zips_glob": "DAS_longitudinal_sweep_20260506_205430__artifacts_*.zip",
+  "omitted_for_size": [
+    "logs/PAPERLIKE_LCM/aesthetic/*/eval_vis/"
+  ]
+}

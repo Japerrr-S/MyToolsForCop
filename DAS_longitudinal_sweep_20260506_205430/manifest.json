@@ -1,0 +1,20 @@
+{
+  "archive_name": "DAS_longitudinal_sweep_20260506_205430",
+  "source_experiment_dir": "/root/autodl-tmp/DAS",
+  "method": "DAS",
+  "task": "PAPERLIKE_LCM/aesthetic",
+  "baseline_repo": "https://github.com/Japerrr-S/MyToolsForCop.git",
+  "baseline_dir": "DAS_paperlike_lcm_20260417_135448",
+  "included_runs": {
+    "gamma005": "2026.05.06_20.04.14",
+    "gamma020": "2026.05.06_20.38.13",
+    "kl0025": "2026.05.06_20.46.25"
+  },
+  "normalized_files": [
+    "logs/paperlike_lcm_table_20260506_205430.csv",
+    "logs/das_longitudinal_sweep/das_longitudinal_aesthetic_20260506_205430.csv",
+    "logs/das_longitudinal_sweep/das_aesthetic_comparison_summary.csv",
+    "logs/das_longitudinal_sweep/das_parameter_change_report.md"
+  ],
+  "notes": "Per-run folders keep config.json, eval_results.csv, and eval_diversity_results.csv to match the original DAS archive."
+}
