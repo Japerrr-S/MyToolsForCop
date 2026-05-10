@@ -1,0 +1,21 @@
+{
+  "archive_name": "ddpo_pytorch_lr_sweep_2026-05-06",
+  "source_experiment_dir": "/root/autodl-tmp/ddpo_pytorch_lr_sweep_2026-05-06",
+  "method": "DDPO",
+  "task": "jpeg_compressibility",
+  "baseline_repo": "https://github.com/Japerrr-S/MyToolsForCop.git",
+  "baseline_dir": "ddpo_pytorch_formal_2026-04-18_220318/ddpo_pytorch_formal_2026-04-18_220318",
+  "included_runs": [
+    "lr_1e_4",
+    "lr_6e_4",
+    "clip_5e_4"
+  ],
+  "normalized_files": [
+    "metrics.csv",
+    "epoch_metrics.csv",
+    "das_like_summary.csv",
+    "comparison_summary.csv",
+    "parameter_change_report.md"
+  ],
+  "notes": "Failed intermediate wandb runs were excluded; successful raw run directories and completed wandb records are included."
+}

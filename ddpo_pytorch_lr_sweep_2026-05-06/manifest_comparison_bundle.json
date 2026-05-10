@@ -1,0 +1,11 @@
+{
+  "bundle": "comparison_only",
+  "experiment_repo_dir": "ddpo_pytorch_lr_sweep_2026-05-06/ddpo_pytorch_lr_sweep_2026-05-06",
+  "baseline_repo": "https://github.com/Japerrr-S/MyToolsForCop.git",
+  "baseline_repo_dir_for_comparison": "ddpo_pytorch_formal_2026-04-18_220318",
+  "companion_artifact_zips_glob": "ddpo_pytorch_lr_sweep_2026-05-06__artifacts_*.zip",
+  "omitted_for_size": [
+    "run/ (checkpoints)",
+    "wandb_offline/"
+  ]
+}

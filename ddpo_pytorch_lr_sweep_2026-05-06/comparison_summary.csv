@@ -1,0 +1,5 @@
+run_id,role,learning_rate,clip_range,seed,num_epochs,sample_batch_size,sample_num_batches_per_epoch,sample_num_steps,guidance_scale,reward_fn,prompt_fn,epoch0_reward_mean,best_epoch,best_reward_mean,final_epoch,final_reward_mean,final_reward_std,final_approx_kl_mean,final_clipfrac_mean
+baseline_formal,original,0.0003,0.0001,42,20,1,4,50,5.0,jpeg_compressibility,imagenet_animals,-101.897,8,-72.33675,19,-113.996,26.147644272477017,1.1051821922902771e-09,0.024999999441206455
+lr_1e_4,lr_down,0.0001,0.0001,42,20,1,4,50,5.0,jpeg_compressibility,imagenet_animals,-102.158,8,-69.4,19,-123.74875,36.1990411639245,1.6524988842581134e-10,0.009999999776482582
+lr_6e_4,lr_up,0.0006,0.0001,42,20,1,4,50,5.0,jpeg_compressibility,imagenet_animals,-102.158,8,-69.92025000000001,19,-91.13675,17.487684471864764,5.300839763661136e-09,0.03999999910593033
+clip_5e_4,clip_up,0.0003,0.0005,42,20,1,4,50,5.0,jpeg_compressibility,imagenet_animals,-102.158,8,-72.49725000000001,19,-123.588,36.370421842480745,7.769586328476574e-10,0.0
